@@ -42,5 +42,5 @@ No dia a dia, trabalho em ambiente **Linux (Xubuntu)**, priorizando boas prátic
 
 ## Contato
 
-- **Email:** renanmarcomini02@protonmail.com
+- **Email:** renanmarcomini@protonmail.com
 - **LinkedIn:** www.linkedin.com/in/renan-m-9425762b1
