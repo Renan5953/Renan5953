@@ -35,9 +35,11 @@ Estudante de Engenharia da Computação com interesse em hardware e base em dese
 ## Estatísticas GitHub
 
 <div>
+
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=Renan5953&show_icons=true&theme=dark&hide_border=true" />
   &nbsp;&nbsp;&nbsp;
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan5953&theme=dark&hide_border=true" />
+
 </div>
 
 ---
